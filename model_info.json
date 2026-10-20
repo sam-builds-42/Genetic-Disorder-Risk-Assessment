@@ -1,0 +1,14 @@
+{
+    "model_name": "Explainable Genetic Disorder Risk Assessment System",
+    "algorithm": "Decision Tree Classifier",
+    "target_column": "Genetic Disorder",
+    "best_parameters": {
+        "classifier__class_weight": null,
+        "classifier__max_depth": 8,
+        "classifier__min_samples_leaf": 20,
+        "classifier__min_samples_split": 50
+    },
+    "test_accuracy": 0.600052728710783,
+    "training_accuracy": 0.6301008636034017,
+    "accuracy_difference": 0.030048134892618705
+}
